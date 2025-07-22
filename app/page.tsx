@@ -6,7 +6,7 @@ export default function Home() {
       </h1>
       {/* วิดีโอ 3D ด้านล่างจอ สื่อถึงบริษัทออกแบบห้อง */}
       <video
-        src="/room3d.mp4"
+        src="/technology-animations-8772922.mp4"
         autoPlay
         loop
         muted
