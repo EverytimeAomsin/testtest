@@ -9,8 +9,8 @@ const prompt = Prompt({
 });
 
 export const metadata: Metadata = {
-  title: "เมพาร์ - Design Studio",
-  description: "บริษัทออกแบบและพัฒนา",
+  title: "เมพิตรี - mepitree",
+  description: "บริษัทออกแบบและดีไซน์",
 };
 
 export default function RootLayout({
