@@ -8,14 +8,14 @@ export default function Home() {
         เมพิตรี
       </h1>
 
-      <video
+      {/* <video
         src="/technology-animations-8772922.mp4"
         autoPlay
         loop
         muted
         className="fixed bottom-0 left-1/2 -translate-x-1/2 w-[300px] max-w-full rounded-xl shadow-2xl border border-gray-700 z-20"
         style={{ pointerEvents: "none" }}
-      />
+      /> */}
     </div>
   );
 }
