@@ -5,7 +5,7 @@ export default function Home() {
         className="mt-[-4rem] sm:mt-0 text-6xl sm:text-7xl md:text-8xl font-extralight text-white mb-8 tracking-[0.1em]"
         style={{ fontFamily: "Prompt, sans-serif", fontWeight: 300 }}
       >
-        เมพิตรี
+        メピツリー
       </h1>
 
       {/* <video
